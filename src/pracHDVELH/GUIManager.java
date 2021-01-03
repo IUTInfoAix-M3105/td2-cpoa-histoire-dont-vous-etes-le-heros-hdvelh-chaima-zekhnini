@@ -1,6 +1,7 @@
 /**
  * File: GUIManager.java
  * Creation: 19 Jan. 2017, prost@lirmm.fr
+ * Repris par ZEKHNINI Chaïma pour les tp 2020
  */
 package pracHDVELH;
 
@@ -10,6 +11,7 @@ import java.util.Scanner;
 
 /**
  * @author prost
+ * Repris par ZEKHNINI Chaïma pour les tp 2020
  *
  */
 public class GUIManager {

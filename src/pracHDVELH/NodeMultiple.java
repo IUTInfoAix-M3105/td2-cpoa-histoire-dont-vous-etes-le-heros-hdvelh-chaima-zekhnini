@@ -2,6 +2,7 @@
  * File: NodeMultiple.java
  * Creation: 7 nov. 2020, Jean-Philippe.Prost@univ-amu.fr
  * Template étudiants
+ * Repris par ZEKHNINI Chaïma pour les tp 2020
  */
 package pracHDVELH;
 
@@ -9,6 +10,7 @@ import myUtils.ErrorNaiveHandler;
 
 /**
  * @author prost
+ * Repris par ZEKHNINI Chaïma pour les tp 2020
  *
  */
 public class NodeMultiple {
